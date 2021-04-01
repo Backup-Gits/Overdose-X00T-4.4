@@ -124,3 +124,8 @@ Android.bp
 
 # Out Dir
 out/
+
+# Overdose Build Tools
+built/Image.gz-dtb
+built/kernel_output.txt
+built/*.zip
